@@ -8,6 +8,7 @@ Output: 15
 Input : list_2 = [79, 13, 29, 7, 200]
 Output: 79
 
+### Solution : In the file named Q1.py
 
 ### Q.2) Given a positive integer N, write a program in python that checks if the number is prime or not.
 
@@ -24,4 +25,6 @@ Output: false
 Input:  n = 29
 Output: true
 
-### Note : Solution is regarding the simplicity of the code rather than efficiency of the algorithm.
+### Solution : In the file named Q2.py
+
+#### Note : Solution is regarding the simplicity of the code rather than efficiency of the algorithm.
